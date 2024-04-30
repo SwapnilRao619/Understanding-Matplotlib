@@ -140,6 +140,6 @@ from matplotlib import style
 # plt.xlabel("Year")
 # plt.ylabel("Population")
 # for i in range(len(years)):
-# plt.plot(years[:i],pop[:i],color="blue") #slicing upto i used to retain the previous plotting
-# plt.pause(0.1) #essential for animating
+#   plt.plot(years[:i],pop[:i],color="blue") #slicing upto i used to retain the previous plotting
+#   plt.pause(0.1) #essential for animating
 # plt.show()
